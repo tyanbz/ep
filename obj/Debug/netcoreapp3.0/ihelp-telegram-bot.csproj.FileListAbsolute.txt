@@ -1,0 +1,14 @@
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.exe
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.csprojAssemblyReference.cache
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.AssemblyInfoInputs.cache
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.AssemblyInfo.cs
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.deps.json
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.runtimeconfig.json
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.runtimeconfig.dev.json
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.dll
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\ihelp-telegram-bot.pdb
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\folders\dev\DOT NET\ihelp-telegram-bot\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.csproj.CopyComplete
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.dll
+C:\folders\dev\DOT NET\ihelp-telegram-bot\obj\Debug\netcoreapp3.0\ihelp-telegram-bot.pdb
